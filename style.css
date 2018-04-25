@@ -1,0 +1,25 @@
+body {
+  background: url("https://wallpapercave.com/wp/Lw96gTa.jpg");
+  background-size: auto;
+}
+
+h1 {
+  color: white;
+  text-shadow: 0 0 10px #FF0000, 0 0 15px #0000FF;
+  text-align: center;
+  font-family: 'Prompt', sans-serif;
+  left: 0;
+   line-height: 200px;
+   margin: auto;
+   margin-top: -100px;
+   position: absolute;
+   top: 40%;
+   width: 100%;
+}
+
+.btn {
+  background-color: OrangeRed;
+  position: absolute;
+  top: 50%;
+  left: 46%;
+}
